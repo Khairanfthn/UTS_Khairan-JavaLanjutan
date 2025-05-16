@@ -17,4 +17,4 @@ Aplikasi ini adalah sistem pemesanan tiket bioskop sederhana menggunakan JSP dan
 
 ---
 
-Created by: NAMA | NIM
+Created by: Khairan Fathan | 22110473 | L2022

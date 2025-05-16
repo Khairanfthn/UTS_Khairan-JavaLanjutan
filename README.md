@@ -10,7 +10,7 @@ Aplikasi ini adalah sistem pemesanan tiket bioskop sederhana menggunakan JSP dan
 
 ## Cara Menjalankan
 1. Buka folder project di Apache Tomcat
-2. Akses `localhost:8080/FutureTicketProject/index.jsp`
+2. Akses `http://localhost:8080/UTS_JavaLanjutan_KhairanFathan/`
 
 ## Screenshot
 hasil bagian index.jsp
